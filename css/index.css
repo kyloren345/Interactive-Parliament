@@ -1,0 +1,33 @@
+html {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h1 a {
+    color: black;
+}
+
+.houseofreps .senate {
+    width: 50%;
+    position: absolute;
+}
+.houseofreps {
+    float: left;
+}
+
+.senate {
+    float: right;
+}
+
+footer {
+    position: absolute;
+}
+
+img {
+    height: 700px;
+    width: auto;
+}
