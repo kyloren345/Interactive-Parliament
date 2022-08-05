@@ -8,3 +8,14 @@ img {
     width: auto;
     height: 400px;
 }
+
+h2 a {
+    color: black;
+}
+footer a {
+    color: black;
+    font-size: large;
+}
+.moreinfo {
+    font-size:x-large;
+}

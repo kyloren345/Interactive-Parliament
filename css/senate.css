@@ -10,3 +10,12 @@ img {
     height: 400px;
     width: auto;
 }
+h2 a {
+    color: black;
+}
+.divclass {
+    font-size: x-large;
+}
+footer a {
+    color: black;
+}
