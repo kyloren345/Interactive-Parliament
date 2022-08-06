@@ -1,5 +1,5 @@
 html {
-    background-color: aqua;
+    background-color: black;
 }
 
 h1 {
@@ -30,4 +30,16 @@ footer {
 img {
     height: 700px;
     width: auto;
+}
+
+.houseofreps a {
+    color: lime;
+}
+
+.senate a {
+    color: red;
+}
+
+h1 {
+    color: white;
 }
