@@ -1,21 +1,13 @@
-h1 {
-    text-align: center;
+.footercolor {
+    color: white;
+    font-size: large;
 }
-
-html {
-    background-color: rgb(253, 106, 106);
-}
-
-img {
-    height: 400px;
-    width: auto;
-}
-h2 a {
-    color: black;
-}
-.divclass {
+.footersizecolor {
+    color: white;
     font-size: x-large;
 }
-footer a {
-    color: black;
+
+footer {
+    font-size: large;
+    text-align: center;
 }
